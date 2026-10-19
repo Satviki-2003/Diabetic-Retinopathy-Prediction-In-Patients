@@ -10,6 +10,23 @@ This machine learning tool assists in early clinical screening and risk stratifi
 
 ---
 
+## 🏥 Clinical Context & Ecosystem Impact
+
+### The Healthcare Challenge
+Diabetic retinopathy is a leading cause of vision loss. Early detection is critical, but primary care settings often face bottlenecks:
+* **Missed Diagnoses (False Negatives):** Failing to flag early risk can lead to delayed specialist referrals and irreversible vision deterioration.
+* **Overburdened Specialists:** Unfiltered routine screenings overwhelm ophthalmologists with low-risk cases.
+
+### Target Users & Workflow
+1. **Primary Care Physicians & General Practitioners:** Use the Streamlit interface during routine patient checkups to quickly screen vitals (Blood Pressure, Cholesterol, Age) and determine if an immediate referral to an ophthalmologist is warranted.
+2. **Clinical Screeners & Health Technicians:** Use the instant risk score (>40% probability threshold) to prioritize patient queues and manage diagnostic follow-up scheduling.
+
+### Key Performance Indicators (KPIs)
+* **High Sensitivity (Recall Optimization):** Tuning the decision threshold to strictly minimize false negatives, ensuring high-risk patients are rarely missed.
+* **Rapid Triage:** Delivering instant, data-driven risk stratification at the point of care.
+
+---
+
 ## 📁 Repository Structure
 
 ```text
