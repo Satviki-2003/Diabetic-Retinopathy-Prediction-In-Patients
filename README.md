@@ -9,6 +9,13 @@ An interactive Streamlit web application that uses a fine-tuned **LightGBM** cla
 This machine learning tool assists in early clinical screening and risk stratification for retinopathy. By analyzing standard physiological indicators, the model calculates the probability of disease presence with a threshold tuned specifically for high sensitivity (Recall) to minimize false negatives.
 
 ---
+## 💻 System Architecture
+
+<div align="center">
+  <img src="assets/retinopathy_architecture.png" alt="Diabetic Retinopathy System Architecture" width="100%"/>
+</div>
+
+---
 
 ## 🏥 Clinical Context & Ecosystem Impact
 
