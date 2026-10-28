@@ -37,12 +37,16 @@ Diabetic retinopathy is a leading cause of vision loss. Early detection is criti
 ## 📁 Repository Structure
 
 ```text
-├── app.py                      # Main Streamlit application
+├── app.py                                                    # Main Streamlit application
+├── assets/
+│   ├── retinopathy_architecture.png                          # Pre-trained StandardScaler object
+├── notebook/
+│   ├── Diabetic_Retinopathy_prediction_In_Patients.ipynb     # Python Notebook
 ├── Models/
-│   ├── standard_scalar.pkl     # Pre-trained StandardScaler object
-│   └── lgbm_tuned.pkl          # Fine-tuned LightGBM model artifact
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
+│   ├── standard_scalar.pkl                                   # Pre-trained StandardScaler object
+│   └── lgbm_tuned.pkl                                        # Fine-tuned LightGBM model artifact
+├── requirements.txt                                          # Python dependencies
+└── README.md                                                 # Project documentation
 
 ```
 
