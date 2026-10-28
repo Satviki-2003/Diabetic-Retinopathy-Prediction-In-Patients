@@ -39,7 +39,7 @@ Diabetic retinopathy is a leading cause of vision loss. Early detection is criti
 ```text
 ├── app.py                                                    # Main Streamlit application
 ├── assets/
-│   ├── retinopathy_architecture.png                          # Pre-trained StandardScaler object
+│   ├── retinopathy_architecture.png                          # System Architecture
 ├── notebook/
 │   ├── Diabetic_Retinopathy_prediction_In_Patients.ipynb     # Python Notebook
 ├── Models/
