@@ -1,5 +1,11 @@
 # 👁️ Retinopathy Disease Risk Prediction Tool
 
+<p align="left">
+  <a href="https://diabetic-retinopathy-prediction-in-patients-elkiihcvnlajffbyre.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Live Demo">
+  </a>
+</p>
+
 An interactive Streamlit web application that uses a fine-tuned **LightGBM** classifier to assess a patient's risk of diabetic retinopathy based on basic clinical parameters.
 
 ---
@@ -14,6 +20,11 @@ This machine learning tool assists in early clinical screening and risk stratifi
 <div align="center">
   <img src="assets/retinopathy_architecture.png" alt="Diabetic Retinopathy System Architecture" width="100%"/>
 </div>
+
+---
+## Demo
+
+![App Demo](assets/Demo-video.gif)
 
 ---
 
