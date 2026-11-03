@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://diabetic-retinopathy-prediction-in-patients-elkiihcvnlajffbyre.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Live Demo">
+    <img src="https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B" alt="Streamlit Live Demo">
   </a>
 </p>
 
